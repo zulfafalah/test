@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Stock Transfer Management",
+  "description": "A professional stock transfer management interface with warehouse and client selection, and line item tracking.",
+  "requestFramePermissions": []
+}
